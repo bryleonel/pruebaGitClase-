@@ -1,0 +1,5 @@
+Trabajar en archivos diferentes (parte 2)
+Ambos participantes agregarán contenido a cualquiera de los archivos que hayan
+creado, a continuación subirán los cambios a repositorio remoto.
+Terminado ésto, ambos participantes actualizarán su repositorio local y verificarán que
+los cambios de la/el otra/o participante se hayan aplicado.
